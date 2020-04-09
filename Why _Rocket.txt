@@ -1,0 +1,10 @@
+¿Por qué crear un cohete?
+
+Los cohetes son la prueba de que la humanidad no solo quiere conquistar en la tierra, sino que también explorar los rincones más recónditos del universo. El cohete es la evolución de aquella barca que un día nos lanzó a recorrer todos los continentes de nuestro planeta y que hora se convierte en la ventana que hay entre nuestro mundo y otros. 
+Un cohete a escala parece simple, pero si lo analizamos más profundamente vemos que es la obra de miles de años de evolución cognitiva e intelectual humana.
+¿Cómo hacer un cohete a escala?
+
+Para empezar, tenemos que pensar en cómo lo vamos a propulsar. El cohete funciona por la tercera ley de Newton, cada acción tiene su reacción, lanzamos por un tubo de escape un líquido o gas para tener como resultado una magnifica propulsión. En lo cohetes a escala existen dos tipos de sistemas de propulsión: 
+Propulsión a chorro por agua: metemos presión en un recipiente con agua y esperamos hasta que el agua se vea obligada a salir por el tubo de escape.
+Propulsión Solida: obtenemos un gas a presión producto de una reacción química. Un ejemplo de esto pueden ser los fuegos artificiales. 
+Después de escoger nuestro sistema de propulsión, diseñamos la geometría del cohete; para eso debemos de tener en cuenta que debe moverse rectilíneamente a través del aire. Después de esto nos damos a la tarea de diseñar algunos sistemas electrónicos para el paracaídas o lo que queramos. Recuerda que el límite es nuestra imaginación.
